@@ -25,6 +25,7 @@ div {
 .main-page-flex-container {
   display: flex;
   flex-direction: column;
+  min-width: 640px;
 }
 
 .header-flex-container {
@@ -33,4 +34,5 @@ div {
   flex-wrap: nowrap;
   justify-content: flex-start;
   align-items: flex-start;
+  min-width: 640px;
 }
