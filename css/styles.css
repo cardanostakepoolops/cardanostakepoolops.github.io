@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Bebas+Neue&display=swap');
+
+h2 {
+  color: #303030;
+  font-family: 'Bebas Neue';
+  font-size: 36px;
+}
+p {
+  color: #303030;
+  font-family: 'Open Sans;
+  font-size: 18px;
+}
